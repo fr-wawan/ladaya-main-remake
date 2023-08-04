@@ -26,6 +26,7 @@
 <body>
     <header class="fixed w-full">
 
+
         @include('include.nav')
 
     </header>
